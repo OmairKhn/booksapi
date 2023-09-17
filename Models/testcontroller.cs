@@ -6,7 +6,7 @@ namespace BookStoreApi.Models
     {
         public IActionResult Index()
         {
-            return View();
+            
         }
     }
 }
