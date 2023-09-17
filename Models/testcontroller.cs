@@ -4,7 +4,7 @@ namespace BookStoreApi.Models
 {
     public class testcontroller : Controller
     {
-        public IActionResult Index()
+        public IActionResult abc
         {
             
         }
